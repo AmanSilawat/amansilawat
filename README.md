@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ### React PWA Application
 - Live Link: [Dictionary Word Hunt](https://dictionary-word-hunt-react.netlify.app/), GitHub: [Link](https://github.com/AmanSilawat/Dictionary-Word-Hunt--React)
 
-### React Side Application
+### React Application
 
 - Live Link: [Emoji Reactions](https://reactions-react.vercel.app/), GitHub: [Link](https://github.com/AmanSilawat/Reactions--React)
 - Live Link: [Instagram](https://instagram-react-chi.vercel.app/), GitHub: [Link](https://github.com/AmanSilawat/Instagram--React)
