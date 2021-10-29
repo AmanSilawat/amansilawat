@@ -28,7 +28,9 @@ Here are some ideas to get you started:
 - Live Link: [Dictionary Word Hunt](https://dictionary-word-hunt-react.netlify.app/), GitHub: [Link](https://github.com/AmanSilawat/Dictionary-Word-Hunt--React)
 
 ### React Side Application
-- Live Link: [Instagram](https://instagram-react-chi.vercel.app/), GitHub: [Link](https://github.com/AmanSilawat/Cart--React)
+
+- Live Link: [Emoji Reactions](https://reactions-react.vercel.app/), GitHub: [Link](https://github.com/AmanSilawat/Reactions--React)
+- Live Link: [Instagram](https://instagram-react-chi.vercel.app/), GitHub: [Link](https://github.com/AmanSilawat/Instagram--React)
 - Live Link: [Tours](https://tours-react-012.netlify.app/), GitHub: [Link](https://github.com/AmanSilawat/tours--react)
 - Live Link: [Cocktails](https://cocktails-react-012.netlify.app), GitHub: [Link](https://github.com/AmanSilawat/Cocktails--React)
 - Live Link: [Tab](https://tab-react-012.netlify.app), GitHub: [Link](https://github.com/AmanSilawat/Tabs--React)
