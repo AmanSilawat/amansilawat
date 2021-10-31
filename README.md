@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 
 ### React Application
 
+https://stream-alive-react.vercel.app/
+- Live Link: [Stream Alive](https://stream-alive-react.vercel.app/), GitHub: [Link](https://github.com/AmanSilawat/Stream-Alive--React)
 - Live Link: [Emoji Reactions](https://reactions-react.vercel.app/), GitHub: [Link](https://github.com/AmanSilawat/Reactions--React)
 - Live Link: [Instagram](https://instagram-react-chi.vercel.app/), GitHub: [Link](https://github.com/AmanSilawat/Instagram--React)
 - Live Link: [Tours](https://tours-react-012.netlify.app/), GitHub: [Link](https://github.com/AmanSilawat/tours--react)
